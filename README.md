@@ -1,2 +1,2 @@
-# Scheduling Product (C#)
-Scheduling Product - C#
+# Ben Admin Product (Javascript)
+Ben Admin Product - Javascript
