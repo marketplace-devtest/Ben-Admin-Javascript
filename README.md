@@ -1,2 +1,2 @@
-# Scheduling-Product
+# Scheduling Product (C#)
 Scheduling Product - C#
