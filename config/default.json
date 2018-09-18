@@ -1,0 +1,9 @@
+{
+    "APIClient":{
+        "baseUrl":"",
+        "subscriptionKey":"",
+        "oauthClient":"",
+        "oauthSecret":"",
+        "timeout":""
+    }
+}
